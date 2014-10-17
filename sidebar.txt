@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xka:home|Door43 (xka)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xka|d43-xka repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xka/archive/master.zip|d43-xka.zip]]
+
+**Recent Changes**
+{{changes>ns = xka}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xka|Ethnologue data]]
+
